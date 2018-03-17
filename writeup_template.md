@@ -64,7 +64,7 @@ To capture each slice, A linear drive piezo electric motor with a step of 10 um 
 
 #### Experiment .
 
-This experiment is an example to demonstrate the uage of Hyper-spectral imaging.
+This experiment is an example to demonstrate the usage of Hyper-spectral imaging.
 
 The object to be analyzed is a sample of a fake leaf and a real one. Hardly distiguishable with the naked eye.
 
@@ -81,6 +81,8 @@ The image below is the wavelength spectrum of the real leaf. The spectrum of the
 
 #### Discussion
 
+Hyperspectral imaging is a useful method for extracting optical features of objects that can not be easily sensed by the human eye.
+In this example , Visible light is used as the light source for inspecting the objects. but Other wavelength bands are commonly used in such tests , such as infrared and ultraviolet.
 
 
 
