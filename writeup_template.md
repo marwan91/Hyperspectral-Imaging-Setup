@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 
 
 
-#### 2. Optical setup
+### Optical setup
 
 The imaging setup consists of the following ...
 
@@ -82,7 +82,7 @@ The image below is the wavelength spectrum of the real leaf. The spectrum of the
 #### Discussion
 
 Hyperspectral imaging is a useful method for extracting optical features of objects that can not be easily sensed by the human eye.
-In this example , Visible light is used as the light source for inspecting the objects. but Other wavelength bands are commonly used in such tests , such as infrared and ultraviolet.
+In this example , Visible light is used as the light source for inspecting the objects. but Other wavelength bands are commonly used in a similar fashion , such as infrared and ultraviolet.
 
 
 
