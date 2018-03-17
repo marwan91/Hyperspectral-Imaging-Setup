@@ -14,9 +14,9 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/20150217_141204.jpg "setup"
 [image2]: ./examples/assembled_image.png "stitched"
-[image4]: ./examples/Slice mode no grating 1_1000.jpg "slit"
-[image5]: ./examples/FalseSpectrum.jpg "false"
-[image6]: ./examples/TrueSpectrum.jpg "true"
+[image4]: ./examples/slice.jpg "slit"
+[image5]: ./examples/false_spectrum.jpg "false"
+[image6]: ./examples/true_spectrum.jpg "true"
 [image7]: ./examples/real_vs_fake.png "graph"
 
 
