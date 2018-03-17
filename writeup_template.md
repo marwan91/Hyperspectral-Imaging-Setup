@@ -26,12 +26,19 @@ The goals / steps of this project are the following:
 #### 2. Optical setup
 
 The imaging setup consists of the following ...
+
 1- CCD camera
+
 2- collimating lens
+
 3- Diffraction grating
+
 4- Adjustable fluidic lens for image focus
+
 5- 20um slit
+
 6- piezo-electric linear drive motor 
+
 8- CAN-USB converter
 
 
