@@ -14,7 +14,6 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/20150217_141204.jpg "setup"
 [image2]: ./examples/assembled_image.png "stitched"
-[image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/Slice mode no grating 1_1000.jpg "slit"
 [image5]: ./examples/FalseSpectrum.jpg "false"
 [image6]: ./examples/TrueSpectrum.jpg "true"
